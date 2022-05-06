@@ -45,13 +45,11 @@
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;
   
-  [![twitter](https://user-images.githubusercontent.com/79395058/167138356-0ce8ff51-3583-4083-99fb-e11bfbfc8736.png)]<a href="https://twitter.com/malikshikhar25#gh-light-mode-only"> </a>
+  [](https://user-images.githubusercontent.com/79395058/167138356-0ce8ff51-3583-4083-99fb-e11bfbfc8736.png)]<a href="https://twitter.com/malikshikhar25#gh-light-mode-only"> twitter </a>
 
-  
-  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img width="95" alt="67" src="https://user-images.githubusercontent.com/79395058/167137633-c05470a6-466d-4b35-b5c2-e4ef33c62c8a.png">](www.linkedin.com/in/shikhar-malik-0280691b9#gh-light-mode-only)
+[<img width="95" alt="67" src="https://user-images.githubusercontent.com/79395058/167137633-c05470a6-466d-4b35-b5c2-e4ef33c62c8a.png">]<a href="www.linkedin.com/in/shikhar-malik-0280691b9#gh-light-mode-only"> linkedin </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img width="95" alt="67" src="https://user-images.githubusercontent.com/79395058/167137671-e8d35e43-6cad-4d1f-84fe-5f8de19c5d0b.png">](https://www.instagram.com/killershot007/#gh-light-mode-only)
+[<img width="95" alt="67" src="https://user-images.githubusercontent.com/79395058/167137671-e8d35e43-6cad-4d1f-84fe-5f8de19c5d0b.png">]<a href="https://www.instagram.com/killershot007/#gh-light-mode-only#gh-light-mode-only"> instagram </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;
