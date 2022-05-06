@@ -45,7 +45,7 @@
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;
   
-  [![twitter](https://user-images.githubusercontent.com/79395058/167138356-0ce8ff51-3583-4083-99fb-e11bfbfc8736.png)](https://twitter.com/malikshikhar25#gh-light-mode-only)
+  [![twitter](https://user-images.githubusercontent.com/79395058/167138356-0ce8ff51-3583-4083-99fb-e11bfbfc8736.png)]<a href=(https://twitter.com/malikshikhar25#gh-light-mode-only) </a>
 
   
   
