@@ -1,6 +1,7 @@
 # <b> Hi, I'm Shikhar Malik  
 &nbsp;&nbsp;
-[](https://www.canva.com/design/DAE_63DtfR8/ZHJbGuNPhfHFL6vUgLyljA/edit?category=tACZCu4vaxs)
+
+![Brown Deep Minimalist Web Design LinkedIn Banner](https://user-images.githubusercontent.com/79395058/167137353-b99ede8a-eeff-4d29-8cf1-d2ca44f2faac.png)
 
 
 &nbsp;&nbsp;
@@ -42,10 +43,13 @@
 
 ## Connect with me:
 &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;[![twitter](twitter.png)](https://twitter.com/malikshikhar25#gh-light-mode-only)
+&nbsp;&nbsp;[![twitter](![twitter](https://user-images.githubusercontent.com/79395058/167137546-aa5cb044-e302-4681-8d07-a4507540c24b.png)
+)](https://twitter.com/malikshikhar25#gh-light-mode-only)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![linkedin](linkedin-image.png)](www.linkedin.com/in/shikhar-malik-0280691b9#gh-light-mode-only)
+[![linkedin](<img width="95" alt="67" src="https://user-images.githubusercontent.com/79395058/167137633-c05470a6-466d-4b35-b5c2-e4ef33c62c8a.png">
+)](www.linkedin.com/in/shikhar-malik-0280691b9#gh-light-mode-only)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![instagram](instagram-image.png)](https://www.instagram.com/killershot007/#gh-light-mode-only)
+[![<img width="95" alt="67" src="https://user-images.githubusercontent.com/79395058/167137671-e8d35e43-6cad-4d1f-84fe-5f8de19c5d0b.png">
+](instagram-image.png)](https://www.instagram.com/killershot007/#gh-light-mode-only)
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;
