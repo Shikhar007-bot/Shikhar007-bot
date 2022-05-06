@@ -49,8 +49,10 @@
 <a href="https://twitter.com/malikshikhar25#gh-light-mode-only"> twitter </a>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img width="95" alt="67" src="https://user-images.githubusercontent.com/79395058/167137633-c05470a6-466d-4b35-b5c2-e4ef33c62c8a.png">]<a href="www.linkedin.com/in/shikhar-malik-0280691b9#gh-light-mode-only"> linkedin </a>
+[<img width="95" alt="67" src="https://user-images.githubusercontent.com/79395058/167137633-c05470a6-466d-4b35-b5c2-e4ef33c62c8a.png"><a href="www.linkedin.com/in/shikhar-malik-0280691b9#gh-light-mode-only"> linkedin </a>]
+  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img width="95" alt="67" src="https://user-images.githubusercontent.com/79395058/167137671-e8d35e43-6cad-4d1f-84fe-5f8de19c5d0b.png">]<a href="https://www.instagram.com/killershot007/#gh-light-mode-only#gh-light-mode-only"> instagram </a>
+  ![instagram-image](https://user-images.githubusercontent.com/79395058/167141426-07496275-8f24-4b1f-8265-dbdcfb9530c6.png)
+  <a href="https://www.instagram.com/killershot007/#gh-light-mode-only#gh-light-mode-only"> instagram </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;
