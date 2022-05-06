@@ -1,7 +1,7 @@
 # <b> Hi, I'm Shikhar Malik  
 &nbsp;&nbsp;
+[!](https://user-images.githubusercontent.com/Brown%20Deep%20Minimalist%20Web%20Design%20LinkedIn%20Banner.png)
 
-![](Brown%20Deep%20Minimalist%20Web%20Design%20LinkedIn%20Banner.png)
 
 &nbsp;&nbsp;
 &nbsp;&nbsp;
