@@ -1,6 +1,6 @@
 # <b> Hi, I'm Shikhar Malik  
 &nbsp;&nbsp;
-[!](https://user-images.githubusercontent.com/Brown%20Deep%20Minimalist%20Web%20Design%20LinkedIn%20Banner.png)
+[](https://www.canva.com/design/DAE_63DtfR8/ZHJbGuNPhfHFL6vUgLyljA/edit?category=tACZCu4vaxs)
 
 
 &nbsp;&nbsp;
