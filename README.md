@@ -43,7 +43,12 @@
 
 ## Connect with me:
 &nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;[https://user-images.githubusercontent.com/79395058/167137546-aa5cb044-e302-4681-8d07-a4507540c24b.png)](https://twitter.com/malikshikhar25#gh-light-mode-only)
+&nbsp;&nbsp;
+  
+  ![twitter](https://user-images.githubusercontent.com/79395058/167138356-0ce8ff51-3583-4083-99fb-e11bfbfc8736.png)
+
+  
+  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img width="95" alt="67" src="https://user-images.githubusercontent.com/79395058/167137633-c05470a6-466d-4b35-b5c2-e4ef33c62c8a.png">](www.linkedin.com/in/shikhar-malik-0280691b9#gh-light-mode-only)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
