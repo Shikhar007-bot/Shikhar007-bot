@@ -44,14 +44,11 @@
 ## Connect with me:
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;
- 
-![twitter](https://user-images.githubusercontent.com/79395058/167141010-584ffd89-1b70-43ff-aacd-9e967c7bf776.png <a href = "https://twitter.com/malikshikhar25#gh-light-mode-only"</a>)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="95" alt="67" src="https://user-images.githubusercontent.com/79395058/167137633-c05470a6-466d-4b35-b5c2-e4ef33c62c8a.png"><a href="www.linkedin.com/in/shikhar-malik-0280691b9#gh-light-mode-only"> linkedin </a>
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  ![instagram-image](https://user-images.githubusercontent.com/79395058/167141426-07496275-8f24-4b1f-8265-dbdcfb9530c6.png)
-  <a href="https://www.instagram.com/killershot007/#gh-light-mode-only#gh-light-mode-only"> instagram </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;
+ ![twitter](https://user-images.githubusercontent.com/79395058/167778353-45cd5010-c42f-4410-abcb-8d67b06cc786.png)
+  
+ <img width="95" alt="67" src="https://user-images.githubusercontent.com/79395058/167778634-84dfed5f-5364-404f-9c2a-8f6b14329a42.png">
+  
+ ![instagram-image](https://user-images.githubusercontent.com/79395058/167778713-5e42573e-58db-4ca2-83b5-3ca7efb42bcd.png)
+
+  
