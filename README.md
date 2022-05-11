@@ -46,7 +46,8 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/shikhar-malik-0280691b9/"><img width="95" alt="67" src="https://user-images.githubusercontent.com/79395058/167778634-84dfed5f-5364-404f-9c2a-8f6b14329a42.png">
-  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/killershot007/">![instagram-image](https://user-images.githubusercontent.com/79395058/167778713-5e42573e-58db-4ca2-83b5-3ca7efb42bcd.png)
 
   
