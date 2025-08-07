@@ -13,6 +13,7 @@
 - 📌 Currently exploring Data Analyst Field. 
 - 📌 Experienced as Software Engineer Intern at Opentext.
 - 📌 I have completed B.Tech in Computer Science from Lovely Professional University, Phagwara.
+- 📌 Visualising my thoughts on Excel, Python, and Tableau.
 - 📌 I have a good hand on C++, Python, HTML, CSS and JavaScript.
 - 📌 Looking forward to learn more about Data Science.
 - 📌 Always ready to make contribution to open source.
