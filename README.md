@@ -10,9 +10,11 @@
 <img alt="Coding" src="https://user-images.githubusercontent.com/22797857/90096298-b90f4b00-dd54-11ea-9a31-00ad53f8ec04.gif" align="right" height="200"/>
 
 ## <b>About Me:
-- 🔅 I'm currently studying Computer Science and Engineering at Lovely Professional University, Phagwara.
-- 💻 I have a good hand on C++, Python, HTML, CSS and JavaScript.
-- 🪜 Looking forward to learn more about Data Science.
+- 📌 Currently exploring Data Analyst Field. 
+- 📌 Experienced as Software Engineer Intern at Opentext.
+- 📌 I have completed B.Tech in Computer Science from Lovely Professional University, Phagwara.
+- 📌 I have a good hand on C++, Python, HTML, CSS and JavaScript.
+- 📌 Looking forward to learn more about Data Science.
 - 📌 Always ready to make contribution to open source.
 
 &nbsp;
@@ -25,6 +27,7 @@
 
 &nbsp;&nbsp;
 ## <b>Look for me around the Web:
+- Exploring on [Linkedin](www.linkedin.com/in/shikharmalik333) 📔
 - Fighting on [LeetCode](https://leetcode.com/shikharmalik333/) ⚔️
 - Struggling on [CodeChef](https://www.codechef.com/) and [Codeforces](https://www.codechef.com/)💤
 - Completed [HackerRank](https://www.hackerrank.com/dashboard)💯
