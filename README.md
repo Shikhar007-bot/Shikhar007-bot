@@ -46,7 +46,7 @@
 &nbsp;
 
 ## Connect with me:
-<a href="https://twitter.com/malikshikhar25" ![twitter](https://user-images.githubusercontent.com/79395058/167778353-45cd5010-c42f-4410-abcb-8d67b06cc786.png)>
+<a href="https://twitter.com/malikshikhar25">![twitter](https://user-images.githubusercontent.com/79395058/167778353-45cd5010-c42f-4410-abcb-8d67b06cc786.png)
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/shikhar-malik-0280691b9/"><img width="95" alt="67" src="https://user-images.githubusercontent.com/79395058/167778634-84dfed5f-5364-404f-9c2a-8f6b14329a42.png">
